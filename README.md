@@ -22,3 +22,7 @@ This project is a Django-based web application that predicts gold prices using a
 - HTML/CSS Templates
 
 ---
+to install required libraries:
+run pip install -r requirements.txt
+OR
+install all the mentioned libraries using pip command in your cmd
